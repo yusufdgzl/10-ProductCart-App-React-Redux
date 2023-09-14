@@ -4,6 +4,7 @@ import Modal from "./Components/Cart/Modal";
 import Cart from "./Components/Cart/Cart";
 import { useSelector } from "react-redux";
 import "../src/Components/Layout/scrollbar.css"
+import "../dist/output.css"
 
 
 function App() {
